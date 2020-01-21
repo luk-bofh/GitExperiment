@@ -9,3 +9,9 @@ trzy
 dwa
 
 cztery
+
+pięć
+
+sześć
+
+siedem
