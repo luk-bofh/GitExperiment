@@ -6,8 +6,6 @@ dwa
 
 trzy
 
-dwa
-
 cztery
 
 pięć
@@ -15,3 +13,5 @@ pięć
 sześć
 
 siedem
+
+osiem
