@@ -15,3 +15,5 @@ sześć
 siedem
 
 osiem
+
+dziewięć
